@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Report>
+    <id>6</id>
+    <national>32359509</national>
+    <name>Sam Gitu</name>
+    <location>kenol</location>
+    <pin>A0437J766</pin>
+    <tel>0701111457</tel>
+    <email>git@gmil.com</email>
+    <first_elec>same sn</first_elec>
+    <second_elec>same sn</second_elec>
+    <payment>5000</payment>
+    <payment_mode>Instalments</payment_mode>
+    <deposit />
+    <rest />
+    <whole_amount>0</whole_amount>
+    <balance />
+    <ref>J2356865</ref>
+    <srn />
+    <work />
+    <meter />
+    <created_by>Admin</created_by>
+    <updated_by>Admin</updated_by>
+    <created_at>2019-04-12T14:38:02+03:00</created_at>
+  </Report>
+</DocumentElement>
